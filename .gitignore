@@ -1,0 +1,12 @@
+# Rust build artifacts
+/target
+
+# Local ROM files (copyright-shy, not part of the source)
+/roms
+
+# macOS
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
